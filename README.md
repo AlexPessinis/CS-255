@@ -1,2 +1,8 @@
-# CS-255
-Portfolio Submission for my CS-255 class
+# CS-255: The DriverPass Project
+The DriverPass project focused on designing a system for a small driving‑school business that wanted to offer online practice tests, driving‑lesson scheduling, and account management for its customers. The client, DriverPass, needed a system that would make it easier for students to prepare for their driving exams while also helping staff manage lessons, drivers, and customer information. In Project One, I gathered and documented the business requirements. In Project Two, I designed the system using UML diagrams and technical specifications
+
+One thing I think I did particularly well was translating the client’s needs into clear diagrams and workflows. I focused on making sure each part of the system connected logically to the real tasks DriverPass performs, such as scheduling lessons and updating test content. If I were to revise one part of my work, I would refine the class diagram to make the relationships even clearer and ensure every attribute directly supports a real feature. I would also simplify some of the descriptions to make them even more accessible to nontechnical readers.
+
+To interpret the user’s needs, I relied heavily on the interview transcript and looked for repeated concerns, such as scheduling accuracy, up‑to‑date test material, and ease of use. I then built these needs into the system design by creating diagrams that reflect real‑world steps and responsibilities. Considering user needs is essential because a system only succeeds if it solves the right problems and is intuitive for the people who rely on it.
+
+When I design software, I start by understanding the problem from the user’s point of view, then break it down into smaller processes and data structures. I use diagrams to visualize how everything fits together before thinking about implementation. In the future, I plan to continue using techniques like use case modeling, activity diagrams, and class diagrams to analyze and design systems. These tools help ensure that the final product is organized, maintainable, and aligned with what the client actually needs.
